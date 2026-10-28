@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session Switcher",
+    "description": "Press Shift twice to open a searchable session palette in the center of the window, grouped by workspace and operable from the keyboard. It also releases the built-in Ctrl+K session-search binding."
+  }
+}

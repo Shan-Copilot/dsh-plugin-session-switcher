@@ -1,0 +1,4 @@
+- insert:
+    - id: session-switcher
+      name: '@local/session-switcher'
+      config: {}
